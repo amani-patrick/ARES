@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+celery
+redis
+transformers
+langchain
+scapy
+python-nmap
+sqlmap
+pymetasploit3
+osquery
